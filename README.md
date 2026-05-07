@@ -28,7 +28,7 @@ Tools: Git, GitHub, VS Code, npm
 
 ##  🚀Projects
 
-###📝 Note Application
+### 📝Note Application
 
 A full-stack note-taking application that allows users to create, edit, delete, and manage personal notes with a clean and simple user interface.
 
