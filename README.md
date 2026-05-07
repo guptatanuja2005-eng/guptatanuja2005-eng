@@ -38,7 +38,7 @@ A skills analysis tool that helps users identify missing skills, compare their c
 
 
 
-##💻Let's Connect
+💻Let's Connect
 
 - GitHub: [guptatanuja2005-eng](https://github.com/guptatanuja2005-eng)
 - Email: guptatanuja2005@gmail.com
