@@ -5,12 +5,19 @@ I'm a Full Stack Developer | MERN Stack Developer who enjoys building clean, res
 📄 View My Resume
 
 ✨ About Me
+
 🎓 Computer Science and Technology student
+
 💻 Currently building full-stack web applications
+
 🚀 Skilled in MERN stack development and REST APIs
+
 🔐 Interested in authentication, database integration, and scalable applications
+
 📚 Continuously improving my problem-solving and DSA skills
+
 🤝 Open to internships, collaborations, and real-world development projects
+
 🛠️ Tech Stack
 
 Languages:
@@ -35,6 +42,7 @@ Core Skills:
 Data Structures & Algorithms, CRUD, Authentication, API Integration
 
 🚀 Featured Projects
+
 🏠 Rental Management System
 
 A full-stack rental management application with separate user and admin workflows.
