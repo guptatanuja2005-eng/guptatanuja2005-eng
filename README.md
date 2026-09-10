@@ -1,41 +1,74 @@
 # Hi there, I'm Tanuja Gupta😊
 
-I'm a full-stack web developer who enjoys building clean, responsive, and practical web applications. I like turning ideas into working products with thoughtful frontend interfaces, reliable backend APIs, and database-backed features that feel smooth to use.
+I'm a Full Stack Developer | MERN Stack Developer who enjoys building clean, responsive, and practical web applications. I like turning ideas into working products with modern frontend interfaces, reliable backend APIs, authentication, and database-driven features.
 
-## ✨About Me
+📄 View My Resume
 
-- Currently building full-stack web applications
-- Learning and improving through hands-on projects
-- Interested in modern web development, APIs, and scalable app architecture
-- Open to collaborating on beginner-friendly and real-world web projects
+✨ About Me
+🎓 Computer Science and Technology student
+💻 Currently building full-stack web applications
+🚀 Skilled in MERN stack development and REST APIs
+🔐 Interested in authentication, database integration, and scalable applications
+📚 Continuously improving my problem-solving and DSA skills
+🤝 Open to internships, collaborations, and real-world development projects
+🛠️ Tech Stack
 
-## 🛠️Tech Stack
-Frontend: React.js, Tailwind CSS, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB, Mongoose
-API: REST API
-Tools: Git, GitHub, VS Code, npm
+Languages:
+C++, JavaScript, Python, HTML/CSS
 
+Frontend:
+React.js, Tailwind CSS
 
-## 🔥What I Build
+Backend:
+Node.js, Express.js
 
-- Full-stack web applications using React.js, Node.js, Express.js, and MongoDB
-- Responsive frontend interfaces with Tailwind CSS and JavaScript
-- REST APIs for connecting frontend and backend services
-- Database-driven applications using MongoDB and Mongoose
-- CRUD-based projects like note-taking applications
-- Useful web tools like skills gap analyzers
+Database:
+MongoDB, Mongoose, PostgreSQL, SQL
 
-##  🚀Projects
+Web Technologies:
+REST APIs, JWT, CORS, HTTP
 
-### 📝Note Application
+Tools:
+Git, GitHub, VS Code, Postman, npm, Nodemon
 
-A full-stack note-taking application that allows users to create, edit, delete, and manage personal notes with a clean and simple user interface.
+Core Skills:
+Data Structures & Algorithms, CRUD, Authentication, API Integration
 
-### 🔍Skills Gap Analyzer
+🚀 Featured Projects
+🏠 Rental Management System
 
-A skills analysis tool that helps users identify missing skills, compare their current skills with career or role requirements, and understand what they need to learn next.
+A full-stack rental management application with separate user and admin workflows.
 
+Tech: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs
+
+Implemented authentication and product management
+Built rental request and rental status workflows
+Created responsive product browsing and cart/rental interfaces
+Developed dashboard operations for management workflows
+🔍 Skill Gap Analyzer
+
+An application that compares resumes with job descriptions to identify matched and missing skills.
+
+Tech: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose
+
+Implemented skill-match scoring
+Added project recommendations and report history
+Stored analysis data using MongoDB
+Built a responsive React and Tailwind CSS interface
+🎓 Student Management System
+
+A full-stack CRUD application for managing student records.
+
+Tech: React.js, Node.js, Express.js, PostgreSQL, Drizzle ORM
+
+Built responsive React interfaces for student management
+Integrated REST APIs with PostgreSQL
+Implemented structured backend controllers and routes
+🏆 Achievements
+🏅 Participated in the Odoo Hackathon
+💻 Participated in college coding and technology workshops
+⭐ 3-Star rating in C++ on HackerRank
+🧠 Completed 100+ DSA problems on GeeksforGeeks
 
 
 💻Let's Connect
