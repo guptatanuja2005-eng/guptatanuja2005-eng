@@ -45,6 +45,7 @@ Implemented authentication and product management
 Built rental request and rental status workflows
 Created responsive product browsing and cart/rental interfaces
 Developed dashboard operations for management workflows
+
 🔍 Skill Gap Analyzer
 
 An application that compares resumes with job descriptions to identify matched and missing skills.
@@ -55,6 +56,7 @@ Implemented skill-match scoring
 Added project recommendations and report history
 Stored analysis data using MongoDB
 Built a responsive React and Tailwind CSS interface
+
 🎓 Student Management System
 
 A full-stack CRUD application for managing student records.
