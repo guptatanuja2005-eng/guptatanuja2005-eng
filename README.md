@@ -1,84 +1,81 @@
-# Hi there, I'm Tanuja Gupta😊
+# Hi, I'm Tanuja Gupta 👋
 
-I'm a Full Stack Developer | MERN Stack Developer who enjoys building clean, responsive, and practical web applications. I like turning ideas into working products with modern frontend interfaces, reliable backend APIs, authentication, and database-driven features.
+I'm a **Full Stack Developer | MERN Stack Developer** who enjoys building clean, responsive, and practical web applications. I like turning ideas into working products with modern frontend interfaces, reliable backend APIs, authentication, and database-driven features.
 
-📄 View My Resume
 
-✨ About Me
+## ✨ About Me
 
-🎓 Computer Science and Technology student
+* 🎓 Computer Science and Technology student
+* 💻 Currently building full-stack web applications
+* 🚀 Skilled in MERN stack development and REST APIs
+* 🔐 Interested in authentication, database integration, and scalable applications
+* 📚 Continuously improving my problem-solving and DSA skills
+* 🤝 Open to internships, collaborations, and real-world development projects
 
-💻 Currently building full-stack web applications
+## 🛠️ Tech Stack
 
-🚀 Skilled in MERN stack development and REST APIs
-
-🔐 Interested in authentication, database integration, and scalable applications
-
-📚 Continuously improving my problem-solving and DSA skills
-
-🤝 Open to internships, collaborations, and real-world development projects
-
-🛠️ Tech Stack
-
-Languages:
+**Languages:**
 C++, JavaScript, Python, HTML/CSS
 
-Frontend:
+**Frontend:**
 React.js, Tailwind CSS
 
-Backend:
+**Backend:**
 Node.js, Express.js
 
-Database:
+**Database:**
 MongoDB, Mongoose, PostgreSQL, SQL
 
-Web Technologies:
+**Web Technologies:**
 REST APIs, JWT, CORS, HTTP
 
-Tools:
+**Tools:**
 Git, GitHub, VS Code, Postman, npm, Nodemon
 
-Core Skills:
+**Core Skills:**
 Data Structures & Algorithms, CRUD, Authentication, API Integration
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🏠 Rental Management System
+### 🏠 Rental Management System
 
 A full-stack rental management application with separate user and admin workflows.
 
-Tech: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs
+**Tech:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs
 
-Implemented authentication and product management
-Built rental request and rental status workflows
-Created responsive product browsing and cart/rental interfaces
-Developed dashboard operations for management workflows
+* Implemented authentication and product management
+* Built rental request and rental status workflows
+* Created responsive product browsing and cart/rental interfaces
+* Developed dashboard operations for management workflows
 
-🔍 Skill Gap Analyzer
+### 🔍 Skill Gap Analyzer
 
 An application that compares resumes with job descriptions to identify matched and missing skills.
 
-Tech: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose
+**Tech:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose
 
-Implemented skill-match scoring
-Added project recommendations and report history
-Stored analysis data using MongoDB
-Built a responsive React and Tailwind CSS interface
+* Implemented skill-match scoring
+* Added project recommendations and report history
+* Stored analysis data using MongoDB
+* Built a responsive React and Tailwind CSS interface
 
-🎓 Student Management System
+### 🎓 Student Management System
 
 A full-stack CRUD application for managing student records.
 
-Tech: React.js, Node.js, Express.js, PostgreSQL, Drizzle ORM
+**Tech:** React.js, Node.js, Express.js, PostgreSQL, Drizzle ORM
 
-Built responsive React interfaces for student management
-Integrated REST APIs with PostgreSQL
-Implemented structured backend controllers and routes
-🏆 Achievements
-🏅 Participated in the Odoo Hackathon
-💻 Participated in college coding and technology workshops
-⭐ 3-Star rating in C++ on HackerRank
-🧠 Completed 100+ DSA problems on GeeksforGeeks
+* Built responsive React interfaces for student management
+* Integrated REST APIs with PostgreSQL
+* Implemented structured backend controllers and routes
+
+## 🏆 Achievements
+
+* 🏅 Participated in the **Odoo Hackathon**
+* 💻 Participated in college coding and technology workshops
+* ⭐ **3-Star rating in C++ on HackerRank**
+* 🧠 Completed **100+ DSA problems on GeeksforGeeks**
+
 
 
 💻Let's Connect
